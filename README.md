@@ -1,1 +1,1 @@
-# JOTA
+# Projeto referente a disciplina de laboratório de programação em java, da faculdade Nova Roma, turma noite. Onde o principal objetivo é colocar em prática os conhecimentos adquiridos na disciplina de programação orientada a objetos. 
