@@ -3,7 +3,10 @@ package Model;
 public class Ebook extends Livro implements Promocional {
 
 	private String waterMark;
-
+	
+	public Ebook(){
+	}
+	
 	/**
 	 * Construtor herdado da classe pai: Livro.
 	 * 

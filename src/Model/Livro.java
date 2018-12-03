@@ -7,7 +7,9 @@ public abstract class Livro implements Produto {
 	private String descricao;
 	private double valor;
 	private Autor autor;
-
+	
+	public Livro(){
+	}
 	/**
 	 * Construtor necessário para criação de um objeto Livro.
 	 * 
