@@ -1,7 +1,6 @@
 package Controller;
 import Model.Ebook;
 import Model.Autor;
-import View.ViewTelaPrincipal;
 
 public class teste {
 	
@@ -15,7 +14,6 @@ public class teste {
 	}
 	
 	public void teste(){
-		
 	}
 	
 	
